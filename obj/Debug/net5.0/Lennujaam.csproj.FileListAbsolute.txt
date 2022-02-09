@@ -1,0 +1,8 @@
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.csproj.AssemblyReference.cache
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.RazorAssemblyInfo.cache
+C:\Users\opilane\Source\Repos\Ramon Ernits\Lennujaam\obj\Debug\net5.0\Lennujaam.RazorAssemblyInfo.cs
